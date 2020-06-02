@@ -1,4 +1,4 @@
-%YAML 1.1
+1;95;0c%YAML 1.1
 ---
 ANONYMOUS:
   Subtractive: true  
@@ -38,6 +38,7 @@ ANONYMOUS:
         Value: 0.00189
       Powder Layer Initial Porosity:
         Value: 0.0
+        Global Value: 0.0 
       Initial Psi1: 
         Psi1: 0.0
       Initial Psi2: 
@@ -91,6 +92,7 @@ ANONYMOUS:
         Value: 0.00189
       Powder Layer Initial Porosity:
         Value: 0.0
+        Global Value: 0.0 
       Initial Psi1: 
         Psi1: 0.0
       Initial Psi2: 
